@@ -20,4 +20,4 @@ For Part 1, I created a Python program (found in the `Part 1.py` folder) that al
 
 For Part 2, I use ChatGPT-5.6 Sol to generate a separate version of the currency exchange calculator from scratch. The AI is provided with the assignment requirements (summarized in my own words) and the same `BankOfCanadaExchangeRate.2026.csv` dataset.
 
-The AI-generated version is saved as a separate folder titled `ExchangeRatesAI.py` and tested here in Visual Studio Code.
+The AI-generated version is saved as a separate folder titled `Part 2.py` (subtitle `ExchangeRatesAI.py`) and tested here in Visual Studio Code.
